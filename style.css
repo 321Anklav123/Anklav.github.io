@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background: url("../img/1614610387_167-p-zadnii-fon-dlya-fotoshopa-238.jpg");
+
+}
+
+
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 5px 10px #454343;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 120px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #2dd18d;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.card-subtitle {
+    font-size: 18px;
+    color: #1d8181;
+}
+
+.card-list {
+    padding: 0px;
+    list-style-position: inside;
+    font-size: 14px;
+}
+
+h4 {
+    color: green;
+}
+
+.class {
+    width: 1000px;
+    height: 500px;
+}
+
+#one {} 
